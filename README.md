@@ -1,3 +1,3 @@
-# Node.js Redis Entity #
+# Node.js MVCE #
 
 Under construction..
