@@ -1,3 +1,3 @@
-# Node JS Redis Entity #
+# Node.js Redis Entity #
 
 Under construction..
